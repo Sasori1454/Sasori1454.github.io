@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Shop</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <h1>My Shop</h1>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search products...">
+            </div>
+            <div class="cart-icon">
+                <span>Cart</span>
+                <span class="cart-quantity">0</span>
+            </div>
+        </nav>
+    </header>
+
+    <main id="products-grid">
+
+    </main>
+
+    <aside class="cart-sidebar">
+        <button class="close-cart-btn">&times;</button>
+        <h2>Your Cart</h2>
+        <div id="cart-items">
+
+        </div>
+        <p>Total: $<span id="cart-total">0.00</span></p>
+        <button id="checkout-btn">Checkout</button>
+    </aside>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

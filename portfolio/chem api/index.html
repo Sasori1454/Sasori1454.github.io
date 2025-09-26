@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chemistry Quiz Game | Test Your Science Knowledge</title>
+    <meta name="description"
+        content="Play a fun and interactive chemistry quiz game. Test your science knowledge with multiple choice questions and compete on the leaderboard!">
+    <meta name="keywords"
+        content="chemistry, quiz, science, questions, game, education, test, leaderboard, interactive">
+    <meta name="author" content="Jahzyan">
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <form aria-labelledby="quiz-form-title" role="form" style="max-width:400px;margin:auto;">
+        <h2 id="quiz-form-title" style="text-align:center;">Chemistry Quiz Game</h2>
+        <label for="question-count" style="display:block;margin:10px auto;text-align:center;">Number of
+            Questions:</label>
+        <select id="question-count" style="margin-bottom:10px;" aria-label="Select number of questions">
+            <option value="5">5</option>
+            <option value="10">10</option>
+            <option value="20">20</option>
+            <option value="30">30</option>
+            <option value="50">50</option>
+        </select>
+        <label for="player-name" style="display:block;margin:10px auto;text-align:center;">Your Name:</label>
+        <input id="player-name" type="text" placeholder="Enter your name" aria-label="Enter your name"
+            autocomplete="name" />
+        <button id="start-btn" type="button" aria-label="Start the quiz">Start Quiz</button>
+        <div class="question" id="question" aria-live="polite">Loading...</div>
+        <ul class="choices" id="choices" role="list" aria-label="Answer choices"></ul>
+        <button class="btn" id="next-btn" style="display:none;" type="button" aria-label="Next question">Next
+            Question</button>
+        <div class="result" id="result" aria-live="polite"></div>
+        <section id="leaderboard" aria-labelledby="leaderboard-title">
+            <h3 id="leaderboard-title">Leaderboard</h3>
+        </section>
+        <button id="clear-storage-btn" type="button" aria-label="Clear leaderboard and local storage"
+            style="margin-top:10px;background:#e74c3c;color:#fff;">Clear Leaderboard</button>
+    </form>
+
+
+
+    <script src="./script.js"></script>
+</body>
+
+</html>

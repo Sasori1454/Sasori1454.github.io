@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Musical Trivia Quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="quiz-container">
+    <h1>Musical Trivia Quiz</h1>
+    <!-- Move select and button to the top -->
+    <select id="quiz-select">
+      <option value="">Select a quiz</option>
+      <option value="epic.json">Epic Quiz (35Q)</option>
+      <option value="hamilton.json">Hamilton Quiz (34Q)</option>
+      <option value="heathers.json">Heathers Quiz (26Q)</option>
+    </select>
+    <button id="start-btn">Start Quiz</button>
+    <div id="question-number"></div>
+    <div class="question" id="question">Loading...</div>
+    <ul class="choices" id="choices"></ul>
+    <button class="btn" id="next-btn" style="display:none;">Next</button>
+    <div class="result" id="result"></div>
+    <input id="player-name" type="text" placeholder="Enter your name" />
+    <div id="leaderboard"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>

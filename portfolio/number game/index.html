@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number Guessing Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Number Guessing Game</h1>
+        <div class="game-box">
+            <div class="mode-group">
+                <button class="mode-btn" id="easyBtn">Easy</button>
+                <button class="mode-btn" id="mediumBtn">Medium</button>
+                <button class="mode-btn" id="hardBtn">Hard</button>
+            </div>
+            <p id="rangeText">Guess a number between 1 and 100:</p>
+            <div class="input-group">
+                <input type="text" id="guessInput" min="1" max="100" placeholder="Enter your guess" inputmode="numeric"
+                    pattern="[0-9]*" autocomplete="off" aria-label="Enter your guess">
+                <button id="guessBtn">Guess</button>
+            </div>
+            <p id="message" role="status" aria-live="polite"></p>
+            <div class="stats" aria-label="Game stats">
+                <span class="pill">Attempts: <strong id="attempts">0</strong></span>
+                <span class="pill">Best (<span id="modeLabel">Medium</span>): <strong id="best">—</strong></span>
+            </div>
+            <p id="history" aria-label="Previous guesses">Previous: —</p>
+            <button id="resetBtn" style="display:none;">Try Again</button>
+        </div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+
+</html>

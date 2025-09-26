@@ -1,0 +1,376 @@
+[
+    {
+        "question": "Who sings 'My Shot' (the recurring line 'I am not throwing away my shot') in Hamilton?",
+        "choices": [
+            "Alexander Hamilton",
+            "Aaron Burr",
+            "John Laurens",
+            "George Washington"
+        ],
+        "answer": "Alexander Hamilton",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which Schuyler sister is known for the song 'Satisfied' in Hamilton?",
+        "choices": [
+            "Angelica",
+            "Eliza",
+            "Peggy",
+            "Maria"
+        ],
+        "answer": "Angelica",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Who is the primary narrator of Hamilton?",
+        "choices": [
+            "George Washington",
+            "Aaron Burr",
+            "Alexander Hamilton",
+            "King George"
+        ],
+        "answer": "Aaron Burr",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which song features the duel between Hamilton and Burr?",
+        "choices": [
+            "The World Was Wide Enough",
+            "Ten Duel Commandments",
+            "Blow Us All Away",
+            "Meet Me Inside"
+        ],
+        "answer": "The World Was Wide Enough",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which character sings 'You'll Be Back'?",
+        "choices": [
+            "King George III",
+            "Thomas Jefferson",
+            "George Washington",
+            "Aaron Burr"
+        ],
+        "answer": "King George III",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which founding father appears as a rival to Hamilton in Act 2?",
+        "choices": [
+            "Thomas Jefferson",
+            "John Adams",
+            "James Madison",
+            "James Monroe"
+        ],
+        "answer": "Thomas Jefferson",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which song includes the lyric 'Talk less, smile more'?",
+        "choices": [
+            "Aaron Burr, Sir",
+            "Washington on Your Side",
+            "Cabinet Battle #1",
+            "History Has Its Eyes on You"
+        ],
+        "answer": "Aaron Burr, Sir",
+        "category": "Hamilton"
+    },
+    {
+        "question": "What is the title of the song where Washington gives advice about stepping down?",
+        "choices": [
+            "One Last Time",
+            "History Has Its Eyes on You",
+            "Non-Stop",
+            "Stay Alive"
+        ],
+        "answer": "One Last Time",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which song describes Hamilton's rapid writing and ambition in Act 1 finale?",
+        "choices": [
+            "Non-Stop",
+            "Right Hand Man",
+            "Helpless",
+            "Wait For It"
+        ],
+        "answer": "Non-Stop",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Who sings 'Wait For It', reflecting on fate and ambition?",
+        "choices": [
+            "Aaron Burr",
+            "Alexander Hamilton",
+            "John Laurens",
+            "King George"
+        ],
+        "answer": "Aaron Burr",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which character is Hamilton's wife?",
+        "choices": [
+            "Eliza Schuyler",
+            "Angelica Schuyler",
+            "Peggy Schuyler",
+            "Maria Reynolds"
+        ],
+        "answer": "Eliza Schuyler",
+        "category": "Hamilton"
+    },
+    {
+        "question": "What is the title of the song where Washington meets Hamilton and later promotes him?",
+        "choices": [
+            "Right Hand Man",
+            "Meet Me Inside",
+            "Satisfied",
+            "The Story of Tonight"
+        ],
+        "answer": "Right Hand Man",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which song recounts Hamilton's affair scandal and its aftermath?",
+        "choices": [
+            "Say No To This",
+            "Burn",
+            "It's Quiet Uptown",
+            "You're Welcome"
+        ],
+        "answer": "Say No To This",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which song does Eliza sing after the Reynolds scandal as a powerful emotional moment?",
+        "choices": [
+            "Burn",
+            "Helpless",
+            "That Would Be Enough",
+            "Meet Me Inside"
+        ],
+        "answer": "Burn",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which song features Hamilton and Jefferson clashing in a 'cabinet battle'?",
+        "choices": [
+            "Cabinet Battle #1",
+            "Cabinet Battle #2",
+            "Cabinet Battle #3",
+            "The Reynolds Pamphlet"
+        ],
+        "answer": "Cabinet Battle #1",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which song shows Hamilton's friendship with Lafayette and Laurens in Act 1?",
+        "choices": [
+            "The Story of Tonight",
+            "Guns and Ships",
+            "Yorktown (The World Turned Upside Down)",
+            "Stay Alive"
+        ],
+        "answer": "The Story of Tonight",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which musical number celebrates the victory at Yorktown?",
+        "choices": [
+            "Yorktown (The World Turned Upside Down)",
+            "Guns and Ships",
+            "Right Hand Man",
+            "The Story of Tonight"
+        ],
+        "answer": "Yorktown (The World Turned Upside Down)",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Who says the line 'I am the one thing in life I can control' in Hamilton?",
+        "choices": [
+            "Alexander Hamilton",
+            "Aaron Burr",
+            "Thomas Jefferson",
+            "George Washington"
+        ],
+        "answer": "Aaron Burr",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which song closes Act 1 with Hamilton's continuing work and ambition?",
+        "choices": [
+            "Non-Stop",
+            "The Room Where It Happens",
+            "Hurricane",
+            "Take A Break"
+        ],
+        "answer": "Non-Stop",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which scene/song features 'The Room Where It Happens'?",
+        "choices": [
+            "Bargaining and decisions in the new government",
+            "Hamilton's duel",
+            "The Reynolds scandal",
+            "Washington's farewell"
+        ],
+        "answer": "Bargaining and decisions in the new government",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Who sings 'Blow Us All Away' about an ambitious young officer?",
+        "choices": [
+            "Philip Hamilton",
+            "Alexander Hamilton",
+            "John Laurens",
+            "Hercules Mulligan"
+        ],
+        "answer": "Philip Hamilton",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which song includes the line 'History has its eyes on you'?",
+        "choices": [
+            "History Has Its Eyes on You",
+            "One Last Time",
+            "Wait For It",
+            "Who Lives, Who Dies, Who Tells Your Story"
+        ],
+        "answer": "History Has Its Eyes on You",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which character dies in a duel at the end of Hamilton's story?",
+        "choices": [
+            "Alexander Hamilton",
+            "Aaron Burr",
+            "Philip Hamilton",
+            "John Laurens"
+        ],
+        "answer": "Alexander Hamilton",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which song is a comedic break by King George urging the colonies to remain loyal?",
+        "choices": [
+            "You'll Be Back",
+            "What Comes Next?",
+            "I Know Him",
+            "The Reynolds Pamphlet"
+        ],
+        "answer": "You'll Be Back",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which number features Jefferson returning from France and clashing with Hamilton?",
+        "choices": [
+            "What'd I Miss",
+            "Cabinet Battle #1",
+            "The Election of 1800",
+            "Dear Theodosia"
+        ],
+        "answer": "What'd I Miss",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which song is a duet between Hamilton and Lafayette about urgency in battle?",
+        "choices": [
+            "Guns and Ships",
+            "Yorktown",
+            "Meet Me Inside",
+            "Right Hand Man"
+        ],
+        "answer": "Guns and Ships",
+        "category": "Hamilton"
+    },
+    {
+        "question": "What is the final song of Hamilton that reflects on legacy and storytelling?",
+        "choices": [
+            "Who Lives, Who Dies, Who Tells Your Story",
+            "The World Was Wide Enough",
+            "Best of Wives and Best of Women",
+            "Take a Break"
+        ],
+        "answer": "Who Lives, Who Dies, Who Tells Your Story",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which song is a tender duet between Burr and his daughter?",
+        "choices": [
+            "Dear Theodosia",
+            "It's Quiet Uptown",
+            "Blow Us All Away",
+            "Stay Alive"
+        ],
+        "answer": "Dear Theodosia",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which song contains the line 'I will kill your friends and family to remind you of my love'?",
+        "choices": [
+            "Wait For It",
+            "The Room Where It Happens",
+            "You'll Be Back",
+            "The World Was Wide Enough"
+        ],
+        "answer": "You'll Be Back",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which musical number shows Hamilton's attempts to secure a future through papers and finance?",
+        "choices": [
+            "The Reynolds Pamphlet",
+            "Non-Stop",
+            "The Election of 1800",
+            "Burn"
+        ],
+        "answer": "Non-Stop",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Who wrote the music, lyrics, and book for Hamilton?",
+        "choices": [
+            "Lin-Manuel Miranda",
+            "Stephen Sondheim",
+            "Andrew Lloyd Webber",
+            "Jonathan Larson"
+        ],
+        "answer": "Lin-Manuel Miranda",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which song in Hamilton is sung by Eliza about forgiveness and moving on?",
+        "choices": [
+            "That Would Be Enough",
+            "Burn",
+            "Helpless",
+            "Take A Break"
+        ],
+        "answer": "That Would Be Enough",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which number satirically covers the presidential election where Burr and Jefferson make deals?",
+        "choices": [
+            "The Election of 1800",
+            "The Room Where It Happens",
+            "Washington On Your Side",
+            "Hurricane"
+        ],
+        "answer": "The Election of 1800",
+        "category": "Hamilton"
+    },
+    {
+        "question": "Which Hamilton song is performed as a solo by King George near the end of the show?",
+        "choices": [
+            "I Know Him",
+            "What Comes Next?",
+            "You'll Be Back",
+            "The Reynolds Pamphlet"
+        ],
+        "answer": "I Know Him",
+        "category": "Hamilton"
+    }
+]
