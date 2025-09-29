@@ -1,0 +1,343 @@
+[
+    {
+        "question": "In EPIC: The Musical, who is presented as the main hero of the story?",
+        "choices": [
+            "Odysseus",
+            "Achilles",
+            "Perseus",
+            "Hercules"
+        ],
+        "answer": "Odysseus",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which EPIC song features Odysseus addressing his crew as 'family'?",
+        "choices": [
+            "Open Arms",
+            "Ruthlessness",
+            "Full Speed Ahead",
+            "My Goodbye"
+        ],
+        "answer": "Open Arms",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which deity often opposes Odysseus in EPIC: The Musical?",
+        "choices": [
+            "Poseidon",
+            "Athena",
+            "Zeus",
+            "Hades"
+        ],
+        "answer": "Poseidon",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which goddess of wisdom is a guiding figure in EPIC: The Musical?",
+        "choices": [
+            "Athena",
+            "Aphrodite",
+            "Hera",
+            "Artemis"
+        ],
+        "answer": "Athena",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which song in EPIC highlights Odysseus's steely determination and defiance?",
+        "choices": [
+            "Ruthlessness",
+            "Warrior of the Mind",
+            "Full Speed Ahead",
+            "Survive"
+        ],
+        "answer": "Ruthlessness",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which monster is featured during a tense number called 'Survive' in EPIC?",
+        "choices": [
+            "Cyclops",
+            "Hydra",
+            "Minotaur",
+            "Siren"
+        ],
+        "answer": "Cyclops",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which EPIC song depicts Odysseus piloting through a fierce storm?",
+        "choices": [
+            "Full Speed Ahead",
+            "Open Arms",
+            "My Goodbye",
+            "Ruthlessness"
+        ],
+        "answer": "Full Speed Ahead",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which EPIC character sings 'Warrior of the Mind'?",
+        "choices": [
+            "Athena",
+            "Odysseus",
+            "Calypso",
+            "Persephone"
+        ],
+        "answer": "Athena",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which song in EPIC is an emotional farewell by Odysseus?",
+        "choices": [
+            "My Goodbye",
+            "Open Arms",
+            "Ruthlessness",
+            "Full Speed Ahead"
+        ],
+        "answer": "My Goodbye",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which figure in EPIC warns Odysseus against excessive pride or hubris?",
+        "choices": [
+            "Athena",
+            "Zeus",
+            "Poseidon",
+            "Hermes"
+        ],
+        "answer": "Athena",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which sea god is repeatedly angry with Odysseus in EPIC?",
+        "choices": [
+            "Poseidon",
+            "Neptune",
+            "Oceanus",
+            "Proteus"
+        ],
+        "answer": "Poseidon",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which EPIC song centers on loyalty among sailors?",
+        "choices": [
+            "Open Arms",
+            "Survive",
+            "Ruthlessness",
+            "Full Speed Ahead"
+        ],
+        "answer": "Open Arms",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which mythical island temptress appears in EPIC's storyline?",
+        "choices": [
+            "Calypso",
+            "Circe",
+            "Ariadne",
+            "Medea"
+        ],
+        "answer": "Calypso",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which EPIC number emphasizes cunning over brute force?",
+        "choices": [
+            "Warrior of the Mind",
+            "Ruthlessness",
+            "Full Speed Ahead",
+            "Open Arms"
+        ],
+        "answer": "Warrior of the Mind",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which EPIC character helps Odysseus with messages and travel?",
+        "choices": [
+            "Hermes",
+            "Athena",
+            "Poseidon",
+            "Zeus"
+        ],
+        "answer": "Hermes",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which song in EPIC features a direct confrontation with a cyclops?",
+        "choices": [
+            "Survive",
+            "Ruthlessness",
+            "Open Arms",
+            "Full Speed Ahead"
+        ],
+        "answer": "Survive",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which EPIC song would most likely be used for a battle montage at sea?",
+        "choices": [
+            "Full Speed Ahead",
+            "Warrior of the Mind",
+            "My Goodbye",
+            "Open Arms"
+        ],
+        "answer": "Full Speed Ahead",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which EPIC character is known for manipulation and temptation of sailors?",
+        "choices": [
+            "Calypso",
+            "Athena",
+            "Persephone",
+            "Iris"
+        ],
+        "answer": "Calypso",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which god in EPIC represents the unpredictable power of the sea?",
+        "choices": [
+            "Poseidon",
+            "Zeus",
+            "Hades",
+            "Apollo"
+        ],
+        "answer": "Poseidon",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which EPIC song might include a chorus of sailors chanting to stay afloat?",
+        "choices": [
+            "Open Arms",
+            "Full Speed Ahead",
+            "Ruthlessness",
+            "Survive"
+        ],
+        "answer": "Open Arms",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which EPIC track highlights the protagonist's inner doubts and longing?",
+        "choices": [
+            "My Goodbye",
+            "Warrior of the Mind",
+            "Full Speed Ahead",
+            "Ruthlessness"
+        ],
+        "answer": "My Goodbye",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Who in EPIC would be most likely to give Odysseus a prophetic warning?",
+        "choices": [
+            "Apollo or Athena",
+            "Calypso",
+            "Hermes",
+            "Poseidon"
+        ],
+        "answer": "Apollo or Athena",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which EPIC piece focuses on strategy and intelligence in leadership?",
+        "choices": [
+            "Warrior of the Mind",
+            "Ruthlessness",
+            "Full Speed Ahead",
+            "Open Arms"
+        ],
+        "answer": "Warrior of the Mind",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which EPIC character's relationship with Odysseus is romantic and long-lasting in some scenes?",
+        "choices": [
+            "Calypso",
+            "Persephone",
+            "Athena",
+            "Circe"
+        ],
+        "answer": "Calypso",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which EPIC number might close an act with bittersweet sentiment?",
+        "choices": [
+            "My Goodbye",
+            "Ruthlessness",
+            "Open Arms",
+            "Full Speed Ahead"
+        ],
+        "answer": "My Goodbye",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which god in EPIC is most concerned with justice among mortals?",
+        "choices": [
+            "Zeus",
+            "Poseidon",
+            "Hades",
+            "Apollo"
+        ],
+        "answer": "Zeus",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which EPIC song centers on defying divine wrath and pushing forward?",
+        "choices": [
+            "Ruthlessness",
+            "My Goodbye",
+            "Open Arms",
+            "Warrior of the Mind"
+        ],
+        "answer": "Ruthlessness",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which EPIC scene would naturally include a lament for lost crewmates?",
+        "choices": [
+            "My Goodbye",
+            "Full Speed Ahead",
+            "Open Arms",
+            "Ruthlessness"
+        ],
+        "answer": "My Goodbye",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which EPIC song likely showcases the crew's camaraderie during hardship?",
+        "choices": [
+            "Open Arms",
+            "Survive",
+            "Full Speed Ahead",
+            "Warrior of the Mind"
+        ],
+        "answer": "Open Arms",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which EPIC character might perform a lyrical passage invoking the gods for mercy?",
+        "choices": [
+            "Odysseus",
+            "Athena",
+            "Calypso",
+            "Hermes"
+        ],
+        "answer": "Odysseus",
+        "category": "EPIC: The Musical"
+    },
+    {
+        "question": "Which EPIC song showcases moral choices faced by the leader?",
+        "choices": [
+            "Warrior of the Mind",
+            "Ruthlessness",
+            "My Goodbye",
+            "Open Arms"
+        ],
+        "answer": "Warrior of the Mind",
+        "category": "EPIC: The Musical"
+    }
+]

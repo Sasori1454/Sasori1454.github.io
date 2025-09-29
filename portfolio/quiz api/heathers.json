@@ -1,0 +1,288 @@
+[
+    {
+        "question": "In Heathers: The Musical, what color is Heather Chandler associated with?",
+        "choices": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+        ],
+        "answer": "Red",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which song in Heathers features the Heathers singing at school to show their clique power?",
+        "choices": [
+            "Candy Store",
+            "Seventeen",
+            "Big Fun",
+            "Beautiful"
+        ],
+        "answer": "Candy Store",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which character is the cynical protagonist who becomes involved with J.D.?",
+        "choices": [
+            "Veronica Sawyer",
+            "Heather Chandler",
+            "Heather Duke",
+            "Martha"
+        ],
+        "answer": "Veronica Sawyer",
+        "category": "Heathers"
+    },
+    {
+        "question": "What is the name of J.D.'s darker, manipulative persona in Heathers?",
+        "choices": [
+            "Jason Dean",
+            "John Dalton",
+            "Jack Donovan",
+            "Jerry Dorsey"
+        ],
+        "answer": "Jason Dean",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which song opens Heathers with a grimly comic declaration of teenage angst?",
+        "choices": [
+            "Teenage Woman",
+            "Dead Girl Walking",
+            "Shine a Light",
+            "Blue"
+        ],
+        "answer": "Dead Girl Walking",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which Heathers song features a raucous party scene?",
+        "choices": [
+            "Big Fun",
+            "Candy Store",
+            "Meant To Be Yours",
+            "Freeze Your Brain"
+        ],
+        "answer": "Big Fun",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which song shows Veronica's guilt and inner conflict after violent events?",
+        "choices": [
+            "Blue",
+            "Seventeen",
+            "Our Love Is God",
+            "Beautiful"
+        ],
+        "answer": "Blue",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which Heather wears yellow in the musical?",
+        "choices": [
+            "Heather McNamara",
+            "Heather Chandler",
+            "Heather Duke",
+            "Heather Miller"
+        ],
+        "answer": "Heather McNamara",
+        "category": "Heathers"
+    },
+    {
+        "question": "What song does J.D. sing to expose his violent ideology and plan?",
+        "choices": [
+            "Freeze Your Brain",
+            "Meant To Be Yours",
+            "Shine a Light",
+            "Fight for Me"
+        ],
+        "answer": "Freeze Your Brain",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which song is Veronica's defiant answer to the Heathers' control early in the show?",
+        "choices": [
+            "Beautiful",
+            "Seventeen",
+            "Candy Store",
+            "Dead Girl Walking"
+        ],
+        "answer": "Beautiful",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which song features Heather Chandler being targeted by a prank gone wrong?",
+        "choices": [
+            "Candy Store",
+            "Dead Girl Walking",
+            "Seventeen",
+            "Big Fun"
+        ],
+        "answer": "Dead Girl Walking",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which song includes the line 'Our love is God' showing Veronica's complicated feelings for J.D.?",
+        "choices": [
+            "Our Love Is God",
+            "Meant To Be Yours",
+            "Blue",
+            "It's All Coming Back To Me Now"
+        ],
+        "answer": "Our Love Is God",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which song is Heather Duke's power anthem after Heather Chandler is gone?",
+        "choices": [
+            "I Say No",
+            "Fight For Me",
+            "Shine A Light",
+            "Meant To Be Yours"
+        ],
+        "answer": "Shine A Light",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which Heathers number is a montage of Veronica trying to fit in and be 'cool'?",
+        "choices": [
+            "Seventeen",
+            "Candy Store",
+            "Big Fun",
+            "Beautiful"
+        ],
+        "answer": "Seventeen",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which character sings 'Meant To Be Yours' pleading for Veronica's love?",
+        "choices": [
+            "J.D.",
+            "Veronica",
+            "Heather Chandler",
+            "Heather Duke"
+        ],
+        "answer": "J.D.",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which song plays at the play's climax where violence and consequences are revealed?",
+        "choices": [
+            "Dead Girl Walking",
+            "Blue",
+            "Shine A Light",
+            "Our Love Is God"
+        ],
+        "answer": "Blue",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which song includes Kurt and Ram dancing and displaying bullying behavior?",
+        "choices": [
+            "Big Fun",
+            "Seventeen",
+            "Candy Store",
+            "Dead Girl Walking"
+        ],
+        "answer": "Big Fun",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which character becomes the de facto leader of the Heathers after Chandler's fall?",
+        "choices": [
+            "Heather Duke",
+            "Heather McNamara",
+            "Veronica",
+            "Martha"
+        ],
+        "answer": "Heather Duke",
+        "category": "Heathers"
+    },
+    {
+        "question": "What song does Veronica sing to demand the Heathers stop messing with her?",
+        "choices": [
+            "Beautiful",
+            "Candy Store",
+            "Seventeen",
+            "Dead Girl Walking"
+        ],
+        "answer": "Beautiful",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which song features Heather McNamara's breakdown about popularity and self-image?",
+        "choices": [
+            "My Dead Girl Fantasy",
+            "Seventeen",
+            "I Say No",
+            "The Tiniest Lifeboat"
+        ],
+        "answer": "The Tiniest Lifeboat",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which song in Heathers features a 'suicide' prank turned deadly in the original story?",
+        "choices": [
+            "Our Love Is God",
+            "Blue",
+            "Candy Store",
+            "Meant To Be Yours"
+        ],
+        "answer": "Our Love Is God",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which song sees Veronica refusing to be part of the Heathers' cruelty any longer?",
+        "choices": [
+            "Beautiful",
+            "I Say No",
+            "Shine A Light",
+            "Our Love Is God"
+        ],
+        "answer": "I Say No",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which character delivers the song 'I Say No' as an act of resistance?",
+        "choices": [
+            "Veronica",
+            "Heather Duke",
+            "Heather Chandler",
+            "Martha"
+        ],
+        "answer": "Veronica",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which Heathers song is J.D.'s attempt to manipulate public perception?",
+        "choices": [
+            "Meant To Be Yours",
+            "Freeze Your Brain",
+            "Our Love Is God",
+            "I Say No"
+        ],
+        "answer": "Meant To Be Yours",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which number ends the show with Veronica attempting to make things right?",
+        "choices": [
+            "Shine A Light",
+            "Dead Girl Walking",
+            "Seventeen",
+            "Beautiful"
+        ],
+        "answer": "Seventeen",
+        "category": "Heathers"
+    },
+    {
+        "question": "Which song includes the line 'I could be happy with the Heathers' as a reflection on popularity?",
+        "choices": [
+            "Candy Store",
+            "Beautiful",
+            "Seventeen",
+            "Dead Girl Walking"
+        ],
+        "answer": "Beautiful",
+        "category": "Heathers"
+    }
+]

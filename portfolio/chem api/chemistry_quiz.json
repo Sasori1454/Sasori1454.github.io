@@ -1,0 +1,512 @@
+[
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": [
+            "H2O",
+            "O2",
+            "CO2",
+            "HO"
+        ],
+        "answer": "H2O"
+    },
+    {
+        "question": "Which element has the atomic number 6?",
+        "options": [
+            "Carbon",
+            "Oxygen",
+            "Nitrogen",
+            "Helium"
+        ],
+        "answer": "Carbon"
+    },
+    {
+        "question": "What is the pH of a neutral solution?",
+        "options": [
+            "7",
+            "0",
+            "14",
+            "1"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "Which gas is most abundant in Earth's atmosphere?",
+        "options": [
+            "Nitrogen",
+            "Oxygen",
+            "Carbon Dioxide",
+            "Argon"
+        ],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "What is the chemical symbol for sodium?",
+        "options": [
+            "Na",
+            "S",
+            "N",
+            "So"
+        ],
+        "answer": "Na"
+    },
+    {
+        "question": "Which element is a noble gas?",
+        "options": [
+            "Neon",
+            "Nitrogen",
+            "Nickel",
+            "Neptunium"
+        ],
+        "answer": "Neon"
+    },
+    {
+        "question": "What is the process of solid turning directly into gas called?",
+        "options": [
+            "Sublimation",
+            "Evaporation",
+            "Condensation",
+            "Melting"
+        ],
+        "answer": "Sublimation"
+    },
+    {
+        "question": "What is the main component of natural gas?",
+        "options": [
+            "Methane",
+            "Propane",
+            "Butane",
+            "Ethane"
+        ],
+        "answer": "Methane"
+    },
+    {
+        "question": "Which acid is found in vinegar?",
+        "options": [
+            "Acetic acid",
+            "Citric acid",
+            "Sulfuric acid",
+            "Hydrochloric acid"
+        ],
+        "answer": "Acetic acid"
+    },
+    {
+        "question": "What is the chemical formula for table salt?",
+        "options": [
+            "NaCl",
+            "KCl",
+            "Na2SO4",
+            "CaCl2"
+        ],
+        "answer": "NaCl"
+    },
+    {
+        "question": "Which element is liquid at room temperature?",
+        "options": [
+            "Mercury",
+            "Iron",
+            "Copper",
+            "Gold"
+        ],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the most reactive group of nonmetals?",
+        "options": [
+            "Halogens",
+            "Noble gases",
+            "Alkali metals",
+            "Transition metals"
+        ],
+        "answer": "Halogens"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+            "Au",
+            "Ag",
+            "Gd",
+            "Go"
+        ],
+        "answer": "Au"
+    },
+    {
+        "question": "Which element is essential for respiration?",
+        "options": [
+            "Oxygen",
+            "Carbon",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "What is the chemical formula for glucose?",
+        "options": [
+            "C6H12O6",
+            "C12H22O11",
+            "C2H5OH",
+            "CH4"
+        ],
+        "answer": "C6H12O6"
+    },
+    {
+        "question": "Which element is used in light bulb filaments?",
+        "options": [
+            "Tungsten",
+            "Copper",
+            "Silver",
+            "Gold"
+        ],
+        "answer": "Tungsten"
+    },
+    {
+        "question": "What is the process of a liquid turning into a gas called?",
+        "options": [
+            "Evaporation",
+            "Condensation",
+            "Sublimation",
+            "Freezing"
+        ],
+        "answer": "Evaporation"
+    },
+    {
+        "question": "What is the chemical symbol for iron?",
+        "options": [
+            "Fe",
+            "Ir",
+            "In",
+            "I"
+        ],
+        "answer": "Fe"
+    },
+    {
+        "question": "Which element is found in all organic compounds?",
+        "options": [
+            "Carbon",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Carbon"
+    },
+    {
+        "question": "What is the chemical formula for ammonia?",
+        "options": [
+            "NH3",
+            "NO2",
+            "N2O",
+            "NH4"
+        ],
+        "answer": "NH3"
+    },
+    {
+        "question": "Which element is the lightest?",
+        "options": [
+            "Hydrogen",
+            "Helium",
+            "Lithium",
+            "Oxygen"
+        ],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "What is the chemical symbol for potassium?",
+        "options": [
+            "K",
+            "P",
+            "Pt",
+            "Po"
+        ],
+        "answer": "K"
+    },
+    {
+        "question": "Which element is used in batteries?",
+        "options": [
+            "Lithium",
+            "Lead",
+            "Zinc",
+            "Copper"
+        ],
+        "answer": "Lithium"
+    },
+    {
+        "question": "What is the chemical formula for sulfuric acid?",
+        "options": [
+            "H2SO4",
+            "HCl",
+            "HNO3",
+            "H2CO3"
+        ],
+        "answer": "H2SO4"
+    },
+    {
+        "question": "Which element is a metalloid?",
+        "options": [
+            "Silicon",
+            "Sodium",
+            "Silver",
+            "Sulfur"
+        ],
+        "answer": "Silicon"
+    },
+    {
+        "question": "What is the chemical symbol for lead?",
+        "options": [
+            "Pb",
+            "Pd",
+            "Pt",
+            "Pl"
+        ],
+        "answer": "Pb"
+    },
+    {
+        "question": "Which element is used in nuclear reactors?",
+        "options": [
+            "Uranium",
+            "Plutonium",
+            "Thorium",
+            "Radium"
+        ],
+        "answer": "Uranium"
+    },
+    {
+        "question": "What is the chemical formula for methane?",
+        "options": [
+            "CH4",
+            "C2H6",
+            "C3H8",
+            "C4H10"
+        ],
+        "answer": "CH4"
+    },
+    {
+        "question": "Which element is used in making glass?",
+        "options": [
+            "Silicon",
+            "Sodium",
+            "Calcium",
+            "Magnesium"
+        ],
+        "answer": "Silicon"
+    },
+    {
+        "question": "What is the chemical symbol for copper?",
+        "options": [
+            "Cu",
+            "Co",
+            "Cr",
+            "Cp"
+        ],
+        "answer": "Cu"
+    },
+    {
+        "question": "Which element is used in fertilizers?",
+        "options": [
+            "Nitrogen",
+            "Phosphorus",
+            "Potassium",
+            "Calcium"
+        ],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "What is the chemical formula for hydrochloric acid?",
+        "options": [
+            "HCl",
+            "H2SO4",
+            "HNO3",
+            "H2CO3"
+        ],
+        "answer": "HCl"
+    },
+    {
+        "question": "Which element is used in thermometers?",
+        "options": [
+            "Mercury",
+            "Alcohol",
+            "Water",
+            "Silver"
+        ],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the chemical symbol for silver?",
+        "options": [
+            "Ag",
+            "Au",
+            "Si",
+            "S"
+        ],
+        "answer": "Ag"
+    },
+    {
+        "question": "Which element is used in making steel?",
+        "options": [
+            "Iron",
+            "Copper",
+            "Aluminum",
+            "Zinc"
+        ],
+        "answer": "Iron"
+    },
+    {
+        "question": "What is the chemical formula for carbon dioxide?",
+        "options": [
+            "CO2",
+            "CO",
+            "C2O",
+            "C2O2"
+        ],
+        "answer": "CO2"
+    },
+    {
+        "question": "Which element is used in matches?",
+        "options": [
+            "Phosphorus",
+            "Sulfur",
+            "Potassium",
+            "Magnesium"
+        ],
+        "answer": "Phosphorus"
+    },
+    {
+        "question": "What is the chemical symbol for magnesium?",
+        "options": [
+            "Mg",
+            "Mn",
+            "Ma",
+            "Mc"
+        ],
+        "answer": "Mg"
+    },
+    {
+        "question": "Which element is used in making coins?",
+        "options": [
+            "Copper",
+            "Gold",
+            "Silver",
+            "Platinum"
+        ],
+        "answer": "Copper"
+    },
+    {
+        "question": "What is the chemical formula for ethanol?",
+        "options": [
+            "C2H5OH",
+            "C6H12O6",
+            "CH3OH",
+            "C2H6O"
+        ],
+        "answer": "C2H5OH"
+    },
+    {
+        "question": "Which element is used in making semiconductors?",
+        "options": [
+            "Silicon",
+            "Germanium",
+            "Gallium",
+            "Arsenic"
+        ],
+        "answer": "Silicon"
+    },
+    {
+        "question": "What is the chemical symbol for zinc?",
+        "options": [
+            "Zn",
+            "Zr",
+            "Ze",
+            "Zc"
+        ],
+        "answer": "Zn"
+    },
+    {
+        "question": "Which element is used in making jewelry?",
+        "options": [
+            "Gold",
+            "Silver",
+            "Platinum",
+            "Copper"
+        ],
+        "answer": "Gold"
+    },
+    {
+        "question": "What is the chemical formula for baking soda?",
+        "options": [
+            "NaHCO3",
+            "Na2CO3",
+            "NaCl",
+            "NaOH"
+        ],
+        "answer": "NaHCO3"
+    },
+    {
+        "question": "Which element is used in making explosives?",
+        "options": [
+            "Nitrogen",
+            "Sulfur",
+            "Phosphorus",
+            "Potassium"
+        ],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "What is the chemical symbol for calcium?",
+        "options": [
+            "Ca",
+            "C",
+            "Cl",
+            "Cu"
+        ],
+        "answer": "Ca"
+    },
+    {
+        "question": "Which element is used in making fertilizers?",
+        "options": [
+            "Phosphorus",
+            "Nitrogen",
+            "Potassium",
+            "Calcium"
+        ],
+        "answer": "Phosphorus"
+    },
+    {
+        "question": "What is the chemical formula for nitric acid?",
+        "options": [
+            "HNO3",
+            "H2SO4",
+            "HCl",
+            "H2CO3"
+        ],
+        "answer": "HNO3"
+    },
+    {
+        "question": "Which element is used in making paints?",
+        "options": [
+            "Titanium",
+            "Iron",
+            "Copper",
+            "Zinc"
+        ],
+        "answer": "Titanium"
+    },
+    {
+        "question": "What is the chemical symbol for tin?",
+        "options": [
+            "Sn",
+            "Ti",
+            "Ta",
+            "Te"
+        ],
+        "answer": "Sn"
+    },
+    {
+        "question": "Which element is used in making glass?",
+        "options": [
+            "Silicon",
+            "Sodium",
+            "Calcium",
+            "Magnesium"
+        ],
+        "answer": "Silicon"
+    }
+]

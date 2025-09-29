@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 1200,
+        "image": "images/laptop.svg"
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "price": 800,
+        "image": "images/smartphone.svg"
+    },
+    {
+        "id": 3,
+        "name": "Headphones",
+        "price": 150,
+        "image": "images/headphones.svg"
+    },
+    {
+        "id": 4,
+        "name": "Mouse",
+        "price": 25,
+        "image": "images/mouse.svg"
+    },
+    {
+        "id": 5,
+        "name": "Keyboard",
+        "price": 75,
+        "image": "images/keyboard.svg"
+    },
+    {
+        "id": 6,
+        "name": "Monitor",
+        "price": 300,
+        "image": "images/monitor.svg"
+    },
+    {
+        "id": 7,
+        "name": "Webcam",
+        "price": 50,
+        "image": "images/webcam.svg"
+    },
+    {
+        "id": 8,
+        "name": "Desk Chair",
+        "price": 200,
+        "image": "images/chair.svg"
+    },
+    {
+        "id": 9,
+        "name": "Coffee Maker",
+        "price": 60,
+        "image": "images/coffee-maker.svg"
+    },
+    {
+        "id": 10,
+        "name": "Backpack",
+        "price": 45,
+        "image": "images/backpack.svg"
+    },
+    {
+        "id": 11,
+        "name": "Desk Lamp",
+        "price": 35,
+        "image": "images/lamp.svg"
+    },
+    {
+        "id": 12,
+        "name": "Smart Watch",
+        "price": 250,
+        "image": "images/smart-watch.svg"
+    },
+    {
+        "id": 13,
+        "name": "Tablet",
+        "price": 450,
+        "image": "images/tablet.svg"
+    },
+    {
+        "id": 14,
+        "name": "Printer",
+        "price": 180,
+        "image": "images/printer.svg"
+    },
+    {
+        "id": 15,
+        "name": "External Hard Drive",
+        "price": 90,
+        "image": "images/hard-drive.svg"
+    },
+    {
+        "id": 16,
+        "name": "Wireless Earbuds",
+        "price": 120,
+        "image": "images/earbuds.svg"
+    },
+    {
+        "id": 17,
+        "name": "Gaming Console",
+        "price": 500,
+        "image": "images/console.svg"
+    },
+    {
+        "id": 18,
+        "name": "VR Headset",
+        "price": 350,
+        "image": "images/vr-headset.svg"
+    },
+    {
+        "id": 19,
+        "name": "Bluetooth Speaker",
+        "price": 85,
+        "image": "images/speaker.svg"
+    },
+    {
+        "id": 20,
+        "name": "Router",
+        "price": 100,
+        "image": "images/router.svg"
+    },
+    {
+        "id": 21,
+        "name": "USB-C Hub",
+        "price": 40,
+        "image": "images/usb-hub.svg"
+    },
+    {
+        "id": 22,
+        "name": "Laptop Stand",
+        "price": 30,
+        "image": "images/laptop-stand.svg"
+    },
+    {
+        "id": 23,
+        "name": "Microphone",
+        "price": 110,
+        "image": "images/microphone.svg"
+    },
+    {
+        "id": 24,
+        "name": "Drawing Tablet",
+        "price": 95,
+        "image": "images/drawing-tablet.svg"
+    },
+    {
+        "id": 25,
+        "name": "Projector",
+        "price": 220,
+        "image": "images/projector.svg"
+    }
+]

@@ -1,0 +1,112 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #f4f8fb;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.question {
+    font-size: 1.3rem;
+    margin: 30px 0 10px 0;
+    color: #333;
+    text-align: center;
+}
+
+.choices {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 20px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 400px;
+}
+
+.choice {
+    background: #fff;
+    border: 2px solid #d0e2ff;
+    border-radius: 8px;
+    padding: 12px;
+    cursor: pointer;
+    transition: background 0.2s, border 0.2s;
+    font-size: 1rem;
+}
+
+.choice:hover {
+    background: #e6f0ff;
+    border-color: #7abaff;
+}
+
+.btn,
+#start-btn {
+    background: #4f8cff;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 24px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin: 10px 0;
+    transition: background 0.2s;
+}
+
+.btn:hover,
+#start-btn:hover {
+    background: #3570d4;
+}
+
+#player-name {
+    padding: 8px;
+    border-radius: 6px;
+    border: 1px solid #b0c4de;
+    font-size: 1rem;
+    margin-bottom: 10px;
+    width: 220px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.result {
+    font-size: 1.1rem;
+    margin: 10px 0;
+    color: #2d7a2d;
+    text-align: center;
+}
+
+#leaderboard {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+    padding: 16px;
+    margin: 20px auto;
+    max-width: 350px;
+}
+
+#leaderboard h3 {
+    margin-top: 0;
+    color: #4f8cff;
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+#leaderboard ol {
+    padding-left: 20px;
+    margin: 0;
+}
+
+#quiz-select {
+    padding: 8px;
+    border-radius: 6px;
+    border: 1px solid #b0c4de;
+    font-size: 1rem;
+    margin-bottom: 10px;
+    width: 220px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
